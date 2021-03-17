@@ -4,7 +4,7 @@ ICCS2021 Conference Paper - metric calculating
 
 ## Process
 
-Use the KnowledgeScraper.xml and KnowledgeParser process to run data downloading pipeline. 
+Use the KnowledgeScraper.xml and KnowledgeParser.xml process to run data downloading pipeline. 
 
 Use [RapidMiner](https://rapidminer.com/) + the [Text Proecessing](https://marketplace.rapidminer.com/UpdateServer/faces/product_details.xhtml?productId=rmx_text) extension to run the process.
 
